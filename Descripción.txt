@@ -1,0 +1,5 @@
+Implementación patrón MVC -> GUI (puede ser JavaFX o JavaSwing)
+-Una única ventana que permite:
+	Carga una agenda existe de un archivo
+	Permite navegar por la agenda, lo que permita ver individualmente cada uno de los contactos, uno a la vez.
+	Agregar nuevos registros
